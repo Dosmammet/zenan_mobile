@@ -21,7 +21,7 @@ void main() async {
   checklangweb();
   runApp(
     GetMaterialApp(
-      theme: isDarkk.read('dark') == 'true'
+      theme: isDarkk.read('dahhhhhhhrk') == 'true'
           ? Themes().myDarkTheme
           : Themes().myLightTheme,
       initialRoute: '/splashscreen',
